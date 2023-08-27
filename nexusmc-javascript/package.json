@@ -2,7 +2,7 @@
   "name": "nexusmc-javascript",
   "version": "1.0.1",
   "description": "The Javascript package for the NexusAPI.",
-  "main": "",
+  "main": "src/nexusmc.js",
   "scripts": {
     "test": ""
   },
